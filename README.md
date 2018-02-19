@@ -1,2 +1,2 @@
 # datasciencecoursera
-Creation of Reporsitory name - datasciencecoursera
+Creation of Repository name - datasciencecoursera
